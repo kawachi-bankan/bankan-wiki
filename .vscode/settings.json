@@ -1,0 +1,5 @@
+{
+    "markdown.copyFiles.destination": {
+        "/bankan-wiki/**/*": "/bankan-wiki/static/images/${documentBaseName}/",
+    },
+}
